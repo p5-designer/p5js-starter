@@ -40,3 +40,9 @@ This advanced studio course is designed for students who have mastered basic ski
 This course offers an introduction to game design and game studies. Game studies have five core elements: the study of games as transmitters of culture, the study of play and interactivity, the study of games as symbolic systems; the study of games as artifacts; and methods for creating games. We will study these core elements through play, play tests, play analysis, and comparative studies. Our reading list includes classic game studies theory and texts which support game design methods. After weekly writing and design exercises, our coursework will culminate in the design and evaluation of an original code-based game with a tangible interface. Instructor: Greg Niemeyer
 
 #   UCB - Computer Science-Minor Requirements
+
+**Lower Division Prerequisites**
+
+**COMPSCI 61A** The Structure and Interpretation of Computer Programs
+
+
