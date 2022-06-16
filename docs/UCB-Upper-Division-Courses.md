@@ -52,7 +52,7 @@ This course offers an introduction to game design and game studies. Game studies
 
 -   **COMPSCI 70** Discrete Mathematics and Probability Theory
 
--   **Upper Division Prerequisites**
+**Upper Division Prerequisites**
 
 -   [http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext](http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext)
 
