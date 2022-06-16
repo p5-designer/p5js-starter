@@ -1,4 +1,6 @@
 
+#   Upper Division Courses
+
 **Digital Media**
 Media Innovation is the process of creating new media: content and ways of sharing that did not exist before. The thermometer was once a new medium: It was invented to observe a phenomenon and communicate that observation beyond the phenomenon itself. The thermostat took the concept one step further by creating a feedback loop between observation and action. AI and Robotics deepen such feedback loops. As human needs and the environments we live in change, we at times need to innovate new media to help us understand and adapt to these changes. 
 From 1969 onward, media innovations were concentrated in the area of Information Technology. and many media innovations looked like art projects before they became part of mainstream culture. In courses including Data Arts, Game Design Methods, and Video Art, UC Berkeley students study the history of these innovations, methods for pursuing and realizing ideas collaboratively, and methods for critically understanding the impacts of new media on humans, communities, systems, environments, cats, and other living things. Towards a Data Culture!
