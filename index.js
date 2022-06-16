@@ -1,25 +1,35 @@
-let bubble1
-let bubble2
+let bubbles = [];
+// let unicorn;
 
 function setup() {
-  createCanvas(600, 400);
-  bubble1 = new Bubble(200, 200);
-  bubble2 = new Bubble(300, 200, 24);
+  createCanvas(1200, 800);
+  for (let i = 0; i < 1000; i++) {
+    let x = random(width);
+    let y = random(height);
+    let r = random(10, 10);    
+    bubbles[i] = new Bubble(x, y, r);
+  }
+  // unicorn = new Bubble (400, 200, 10)
 }
 
 function draw() {
-  background(0);   
-  
-  if (bubble1.intersects(bubble2)){
-    background(200,0,100);
+  background(0);
+ 
+  // unicorn.x = mouseX;
+  // unicorn.y = mouseY;
+  // unicorn.show();
+     
+  for (let b of bubbles) {
+    b.show();
+    b.move();
+    let overlapping = false;
+    for (let other of bubbles) {
+      if (b !== other && b.intersects(other)){
+        overlapping = true;        
+      }
+      overlapping ? b.changeColor(255) : b.changeColor(0);      
+    }    
   }
-
-  bubble1.show();  
-  bubble2.show();
-  // bubble1.move();
-  bubble2.x = mouseX;
-  bubble2.y = mouseY;
-
 }
 
 class Bubble {
@@ -38,12 +48,7 @@ class Bubble {
   changeColor(bright) {
     this.brightness = bright;
   }
-
-  contains(px, py) {
-    let d = dist(px, py, this.x, this.y);
-    return (d < this) ?  true: false; 
-  }
-
+  
   move() {
     this.x = this.x + random(-5, 5);
     this.y = this.y + random(-5, 5);
