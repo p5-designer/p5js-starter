@@ -33,9 +33,10 @@ Computer Graphics constitute a default method of image synthesis, from fine art 
 This studio class aims to provide students with the digital tools for expanding and augmenting their work in traditional media such as photography and sculpture, and also to encourage the exploration of new hybrid forms of art-making. If you are interested in exploring sound, sensors, immersive experience, interactivity, bots, wearable computing, gamification, AI, feedback systems, process-oriented artwork, or data-driven artworks in any media--then this may be the class for you. Students will learn to use basic software and hardware for the manipulation of sound, image,s, and videos that were designed by artists for artists, like: **p5.js, sonic pi, makey-make, arduino, and others**.
 Only offered in Fall semesters
 
+**ART 174 – Advanced Digital Video**
+This advanced studio course is designed for students who have mastered basic skills and concepts involved in digital video production, and are interested in further investigating critical, theoretical, and creative research topics in digital video production. Each week will include relevant readings, class discussions, guest speakers, demonstrat ion of examples, and studio time for training and working on student assignments .
+
 **ART 178 – Game Design Methods**
 This course offers an introduction to game design and game studies. Game studies have five core elements: the study of games as transmitters of culture, the study of play and interactivity, the study of games as symbolic systems; the study of games as artifacts; and methods for creating games. We will study these core elements through play, play tests, play analysis, and comparative studies. Our reading list includes classic game studies theory and texts which support game design methods. After weekly writing and design exercises, our coursework will culminate in the design and evaluation of an original code-based game with a tangible interface. Instructor: Greg Niemeyer
 
-**ART 174 – Advanced Digital Video**
-This advanced studio course is designed for students who have mastered basic skills and concepts involved in digital video production, and are interested in further investigating critical, theoretical, and creative research topics in digital video production. Each week will include relevant readings, class discussions, guest speakers, demonstrat ion of examples, and studio time for training and working on student assignments .
 
