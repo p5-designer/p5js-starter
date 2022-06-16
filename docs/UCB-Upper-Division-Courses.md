@@ -52,5 +52,8 @@ or **COMPSCI 61BL**Data Structures and Programming Methodology
 
 **COMPSCI 70** Discrete Mathematics and Probability Theory
 
-**Upper Division Prerequisites (http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext)**
+**Upper Division Prerequisites
+
+-   [http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext](http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext)
+
 
