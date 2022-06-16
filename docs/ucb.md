@@ -26,7 +26,7 @@ Computer Graphics constitute a default method of image synthesis, from fine art 
 
 **ART 173 – Electro-Crafting**
 
-This studio class aims to provide students with the digital tools for expanding and augmenting their work in traditional media such as photography and sculpture, and also to encourage the exploration of new hybrid forms of art-making. If you are interested in exploring sound, sensors, immersive experience, interactivity, bots, wearable computing, gamification, AI, feedback systems, process-oriented artwork, or data-driven artworks in any media--then this may be the class for you. Students will learn to use basic software and hardware for the manipulation of sound, image,s, and videos that were designed by artists for artists, like: **pf5.js, sonic pi, makey-make, arduino, and others**.
+This studio class aims to provide students with the digital tools for expanding and augmenting their work in traditional media such as photography and sculpture, and also to encourage the exploration of new hybrid forms of art-making. If you are interested in exploring sound, sensors, immersive experience, interactivity, bots, wearable computing, gamification, AI, feedback systems, process-oriented artwork, or data-driven artworks in any media--then this may be the class for you. Students will learn to use basic software and hardware for the manipulation of sound, image,s, and videos that were designed by artists for artists, like: **p5.js, sonic pi, makey-make, arduino, and others**.
 Only offered in Fall semesters
 
 **ART 178 – Game Design Methods**
