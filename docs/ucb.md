@@ -5,6 +5,9 @@ From 1969 onward, media innovations were concentrated in the area of Information
 An outstanding example of new media art is the work of Alumnus Ian Cheng, who created a new way of making art with his autonomous interactive agents, and of many others who contributed to the development of new games, new cultures, and ultimately, new ways of life.
 More information on the Digital Media Labs, including facilities for Video, Digital Photography, Game Design, and Sound Art.
 
+Instructor: **[Greg Niemeyer](https://www.gregniemeyer.com/)**
+
+
 **ART 23AC/W23AC: Digital Media: Foundations**
 
 Fall 2022, Summer 2022 Second 6 Week Session
