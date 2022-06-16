@@ -1,5 +1,7 @@
 
-#   Upper Division Courses
+#   UCB - Upper Division Courses
+
+-   [https://art.berkeley.edu/upper-div-courses](https://art.berkeley.edu/upper-div-courses)
 
 **Digital Media**
 Media Innovation is the process of creating new media: content and ways of sharing that did not exist before. The thermometer was once a new medium: It was invented to observe a phenomenon and communicate that observation beyond the phenomenon itself. The thermostat took the concept one step further by creating a feedback loop between observation and action. AI and Robotics deepen such feedback loops. As human needs and the environments we live in change, we at times need to innovate new media to help us understand and adapt to these changes. 
