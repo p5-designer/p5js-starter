@@ -43,16 +43,16 @@ This course offers an introduction to game design and game studies. Game studies
 
 **Lower Division Prerequisites**
 
-**COMPSCI 61A** The Structure and Interpretation of Computer Programs
+-   **COMPSCI 61A** The Structure and Interpretation of Computer Programs
 
-**COMPSCI 61B** Data Structures
-or **COMPSCI 61BL**Data Structures and Programming Methodology
+-   **COMPSCI 61B** Data Structures
+    or **COMPSCI 61BL**Data Structures and Programming Methodology
 
-**COMPSCI 61C** Great Ideas of Computer Architecture (Machine Structures)
+-   **COMPSCI 61C** Great Ideas of Computer Architecture (Machine Structures)
 
-**COMPSCI 70** Discrete Mathematics and Probability Theory
+-   **COMPSCI 70** Discrete Mathematics and Probability Theory
 
-**Upper Division Prerequisites**
+-   **Upper Division Prerequisites**
 
 -   [http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext](http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext)
 
