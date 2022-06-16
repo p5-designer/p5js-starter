@@ -1,7 +1,7 @@
 
-#   UCB - Upper Division Courses
+#   UCB - Art Practice Courses
 
--   [https://art.berkeley.edu/upper-div-courses](https://art.berkeley.edu/upper-div-courses)
+-   [http://guide.berkeley.edu/undergraduate/degree-programs/art-practice/#coursestext](http://guide.berkeley.edu/undergraduate/degree-programs/art-practice/#coursestext)
 
 **Digital Media**
 
