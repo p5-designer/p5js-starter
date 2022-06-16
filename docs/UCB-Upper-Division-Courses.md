@@ -26,7 +26,7 @@ This course explores participation as the foundation of online citizenship. Part
 
 **[ART 172 – Advanced Digital Media: Computer Graphics Studio](https://art.berkeley.edu/upper-div-courses)**
 
-Computer Graphics constitute a default method of image synthesis, from fine art to game design, cinema, and advertising. This production-intensive studio course introduces students to professional CG tools (**Blender, Python**) as well as an overview of CG aesthetics. Weekly project assignments based on tutorials cover modeling, texturing, lighting, animation, rendering, physics simulations and data-driven image synthesis. Final projects focus on portfolio work with scenes and characters to be exported into VR, AR, and game design. Instructor: Greg Niemeyer (Spring 2022)
+Computer Graphics constitute a default method of image synthesis, from fine art to game design, cinema, and advertising. This production-intensive studio course introduces students to professional CG tools (**Blender, Python**) as well as an overview of CG aesthetics. Weekly project assignments based on tutorials cover modeling, texturing, lighting, animation, rendering, physics simulations and data-driven image synthesis. Final projects focus on portfolio work with scenes and characters to be exported into VR, AR, and game design. Instructor: Greg Niemeyer
 
 **ART 173 – Electro-Crafting**
 
