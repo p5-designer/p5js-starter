@@ -39,11 +39,6 @@ class Bubble {
     this.brightness = bright;
   }
 
-  contains(px, py) {
-    let d = dist(px, py, this.x, this.y);
-    return (d < this) ?  true: false; 
-  }
-
   move() {
     this.x = this.x + random(-5, 5);
     this.y = this.y + random(-5, 5);
