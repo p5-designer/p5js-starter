@@ -13,7 +13,6 @@ More information on the Digital Media Labs, including facilities for Video, Digi
 
 Instructor: **[Greg Niemeyer](https://www.gregniemeyer.com/)**
 
-
 **ART 23AC: Digital Media: Foundations**
 
 Fall 2022, Summer 2022 Second 6 Week Session
@@ -27,7 +26,7 @@ This course explores participation as the foundation of online citizenship. Part
 
 **[ART 172 – Advanced Digital Media: Computer Graphics Studio](https://art.berkeley.edu/upper-div-courses)**
 
-Computer Graphics constitute a default method of image synthesis, from fine art to game design, cinema, and advertising. This production-intensive studio course introduces students to professional CG tools (**Blender, Python**) as well as an overview of CG aesthetics. Weekly project assignments based on tutorials cover modeling, texturing, lighting, animation, rendering, physics simulations and data-driven image synthesis. Final projects focus on portfolio work with scenes and characters to be exported into VR, AR, and game design. Instructor: Greg Niemeyer
+Computer Graphics constitute a default method of image synthesis, from fine art to game design, cinema, and advertising. This production-intensive studio course introduces students to professional CG tools (Blender, Python) as well as an overview of CG aesthetics. Weekly project assignments based on tutorials cover modeling, texturing, lighting, animation, rendering, physics simulations and data-driven image synthesis. Final projects focus on portfolio work with scenes and characters to be exported into VR, AR, and game design. Instructor: Greg Niemeyer (Spring 2022)
 
 **ART 173 – Electro-Crafting**
 
