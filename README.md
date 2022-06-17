@@ -1,5 +1,9 @@
 # sketch-starter
 
+**p5js starter videos**
+
+-   🎥 Intro to Programming using p5.js: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA
+
 **p5js - sketch.js starter**
 
 - [https://thecodingtrain.com/tracks/code-programming-with-p5-js](https://thecodingtrain.com/tracks/code-programming-with-p5-js)
