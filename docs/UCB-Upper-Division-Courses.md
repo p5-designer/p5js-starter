@@ -52,6 +52,7 @@ This course offers an introduction to game design and game studies. Game studies
 **Lower Division Prerequisites**
 
 -   **COMPSCI 61A** The Structure and Interpretation of Computer Programs
+    [CS6A Syllabus]（https://cs61a.org/）
 
 -   **COMPSCI 61B** Data Structures
     or **COMPSCI 61BL**Data Structures and Programming Methodology
