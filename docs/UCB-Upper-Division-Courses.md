@@ -19,7 +19,7 @@ Fall 2022, Summer 2022 Second 6 Week Session
 Data and logic form core interfaces for information technology. New media art requires understanding their key dynamics. Students gain experience with data generation, visualization, and their impact on real persons, environments, and situations. Can we measure, count, and weigh everything? Is data fair? What is the role of privacy? How do digital conditions affect human conditions? 
 From memes to machine learning, students participate in emerging data cultures including sampling, visualization, animation, video, interactive design, and music. Assignments follow readings on media and design theory, abstraction, interactivity, archives, performance, identity, privacy, automation, aggregation, networking, diffusion, diffraction, and subversion. 
 
-- [Art 23AC_Digital_Media syllabus](https://drive.google.com/drive/u/0/my-drive?ths=true)
+- [Art 23AC_Digital_Media syllabus](https://drive.google.com/file/d/1U8a8jRweBREe5s9FWUVBAISoC5USxiD0/view?usp=sharing)
 
 **ART W23AC: Data Arts**
 
