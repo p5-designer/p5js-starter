@@ -70,4 +70,4 @@ This course offers an introduction to game design and game studies. Game studies
 ##   Digital Media Reference
 
 - [gray area](https://grayarea.org/)
-- [pan Generator](https://pangenerator.com/)
+- [pan generator](https://pangenerator.com/)
