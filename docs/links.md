@@ -1,1 +1,1 @@
-- [trello](.)
+- [trello - kidcoding](https://trello.com/b/FS6R9yON/shuhancode)
