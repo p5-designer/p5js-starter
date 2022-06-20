@@ -58,6 +58,8 @@ This course offers an introduction to game design and game studies. Game studies
 
 -   **COMPSCI 61B** Data Structures
     or **COMPSCI 61BL**Data Structures and Programming Methodology
+    
+    [CS61B Syllabus](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/CS61B/)
 
 -   **COMPSCI 61C** Great Ideas of Computer Architecture (Machine Structures)
 
@@ -67,4 +69,4 @@ This course offers an introduction to game design and game studies. Game studies
 
 -   [http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext](http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext)
 
-
+- [CS DIY](https://csdiy.wiki/)
