@@ -41,7 +41,7 @@ Only offered in Fall semesters
 - [arduino](https://www.arduino.cc/)
 - [sonic-pi](https://sonic-pi.net/)
 - [yining shi](http://1023.io/resume)
-- [Gray area](https://grayarea.org/)
+- [gray area](https://grayarea.org/)
 
 **ART 174 – Advanced Digital Video**
 This advanced studio course is designed for students who have mastered basic skills and concepts involved in digital video production, and are interested in further investigating critical, theoretical, and creative research topics in digital video production. Each week will include relevant readings, class discussions, guest speakers, demonstrat ion of examples, and studio time for training and working on student assignments .
