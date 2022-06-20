@@ -67,7 +67,4 @@ This course offers an introduction to game design and game studies. Game studies
 
 -   [http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext](http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext)
 
-##   Digital Media Reference
 
-- [gray area](https://grayarea.org/)
-- [pan generator](https://pangenerator.com/)
