@@ -41,7 +41,6 @@ Only offered in Fall semesters
 - [arduino](https://www.arduino.cc/)
 - [sonic-pi](https://sonic-pi.net/)
 - [yining shi](http://1023.io/resume)
-- [gray area](https://grayarea.org/)
 
 **ART 174 – Advanced Digital Video**
 This advanced studio course is designed for students who have mastered basic skills and concepts involved in digital video production, and are interested in further investigating critical, theoretical, and creative research topics in digital video production. Each week will include relevant readings, class discussions, guest speakers, demonstrat ion of examples, and studio time for training and working on student assignments .
@@ -69,3 +68,6 @@ This course offers an introduction to game design and game studies. Game studies
 -   [http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext](http://guide.berkeley.edu/undergraduate/degree-programs/computer-science/#coursestext)
 
 ##   Digital Media Reference
+
+- [gray area](https://grayarea.org/)
+- [pan Generator](https://pan generator.com/)
