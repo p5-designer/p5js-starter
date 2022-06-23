@@ -1,5 +1,3 @@
-# sketch-starter
-
 - [https://codingtrain.github.io/website-archive/](https://codingtrain.github.io/website-archive/)
     -   [https://github.com/CodingTrain/website-archive](https://github.com/CodingTrain/website-archive)
 
