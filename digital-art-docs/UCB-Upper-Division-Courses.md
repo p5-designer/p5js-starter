@@ -1,10 +1,10 @@
 # UCB Courses for art major and cs minor
 
-##   UCB - Art Practice Courses
+**UCB - Art Practice Courses**
 
 -   [http://guide.berkeley.edu/undergraduate/degree-programs/art-practice/#coursestext](http://guide.berkeley.edu/undergraduate/degree-programs/art-practice/#coursestext)
 
-**Digital Media**
+## Digital Media 
 
 Media Innovation is the process of creating new media: content and ways of sharing that did not exist before. The thermometer was once a new medium: It was invented to observe a phenomenon and communicate that observation beyond the phenomenon itself. The thermostat took the concept one step further by creating a feedback loop between observation and action. AI and Robotics deepen such feedback loops. As human needs and the environments we live in change, we at times need to innovate new media to help us understand and adapt to these changes. 
 From 1969 onward, media innovations were concentrated in the area of Information Technology. and many media innovations looked like art projects before they became part of mainstream culture. In courses including Data Arts, Game Design Methods, and Video Art, UC Berkeley students study the history of these innovations, methods for pursuing and realizing ideas collaboratively, and methods for critically understanding the impacts of new media on humans, communities, systems, environments, cats, and other living things. Towards a Data Culture!
@@ -30,9 +30,19 @@ This course explores participation as the foundation of online citizenship. Part
 
 **[ART 172 – Advanced Digital Media: Computer Graphics Studio](https://art.berkeley.edu/upper-div-courses)**
 
+-   [Navigating Computer Graphics at UC Berkeley (2021)](https://medium.com/mdblog/navigating-computer-graphics-at-uc-berkeley-2021-e191f544e59a)
+-   [Catherine H.](https://www.linkedin.com/in/catherine-h-5b2462133/)
+-   [Zhiyue(Luna) Wang](https://www.linkedin.com/in/zhiyue-luna-wang-384606204/)
+-   [Shubha Jagannatha](https://www.linkedin.com/in/shubhaja/)
+
 Computer Graphics constitute a default method of image synthesis, from fine art to game design, cinema, and advertising. This production-intensive studio course introduces students to professional CG tools (Blender, Python) as well as an overview of CG aesthetics. Weekly project assignments based on tutorials cover modeling, texturing, lighting, animation, rendering, physics simulations and data-driven image synthesis. Final projects focus on portfolio work with scenes and characters to be exported into VR, AR, and game design. Instructor: Greg Niemeyer (Spring 2022)
 
 **ART 173 – Electro-Crafting**
+
+-   [electro-crafting rules](https://socalledsound.github.io/sfaiF2018/rules.html)
+-   [Chris Kubick](https://www.linkedin.com/in/chris-kubick-a768a0141/)
+    -   [https://socalledsidefx.com/](https://socalledsidefx.com/)
+    -   [https://github.com/socalledsound/electrodocs-2020](https://github.com/socalledsound/electrodocs-2020)
 
 This studio class aims to provide students with the digital tools for expanding and augmenting their work in traditional media such as photography and sculpture, and also to encourage the exploration of new hybrid forms of art-making. If you are interested in exploring sound, sensors, immersive experience, interactivity, bots, wearable computing, gamification, AI, feedback systems, process-oriented artwork, or data-driven artworks in any media--then this may be the class for you. Students will learn to use basic software and hardware for the manipulation of sound, image,s, and videos that were designed by artists for artists, like: **p5.js, sonic pi, makey-make, arduino, and others**.
 Only offered in Fall semesters
