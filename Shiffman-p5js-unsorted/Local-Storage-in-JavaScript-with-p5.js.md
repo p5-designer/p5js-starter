@@ -1,12 +1,12 @@
  # Local Storage in JavaScript with p5.js
  
-In this video I discuss "code linting": an automatic process to find errors in code. I examine the ESLint package for JavaScript.
+What's the easiest and quickest way to have a p5 sketch re-start from where it last left off? Local Storage!
 
 -   🔗  Local Storage in JavaScript with p5.js: https://youtu.be/_SRS8b4LcZ8
 
 p5.js Web Editor Sketches:
--   🕹️ Local Storage: https://editor.p5js.org/codingtrain/s...
--   🕹️ Local Storage w/ Canvas: https://editor.p5js.org/codingtrain/s...
+-   🕹️ Local Storage: https://editor.p5js.org/codingtrain/sketches/R-Z_q_4c3
+-   🕹️ Local Storage w/ Canvas: https://editor.p5js.org/codingtrain/sketches/cLOmL8Td0
 
 Links discussed in this video:
 -   🔗 Local Storage: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
