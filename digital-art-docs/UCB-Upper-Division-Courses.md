@@ -34,13 +34,20 @@ This course explores participation as the foundation of online citizenship. Part
 -   [Catherine H.](https://www.linkedin.com/in/catherine-h-5b2462133/)
 -   [Zhiyue(Luna) Wang](https://www.linkedin.com/in/zhiyue-luna-wang-384606204/)
 -   [Shubha Jagannatha](https://www.linkedin.com/in/shubhaja/)
+-   [https://github.com/p5-designer/gap2020](https://github.com/p5-designer/gap2020)
+-   [https://github.com/p5-designer/gap2019](https://github.com/p5-designer/gap2019)
 
 Computer Graphics constitute a default method of image synthesis, from fine art to game design, cinema, and advertising. This production-intensive studio course introduces students to professional CG tools (Blender, Python) as well as an overview of CG aesthetics. Weekly project assignments based on tutorials cover modeling, texturing, lighting, animation, rendering, physics simulations and data-driven image synthesis. Final projects focus on portfolio work with scenes and characters to be exported into VR, AR, and game design. Instructor: Greg Niemeyer (Spring 2022)
 
+
+
 **ART 173 – Electro-Crafting**
 
+-   [socalledsound/UCBelectro2019](https://github.com/socalledsound/UCBelectro2019)
+    -   [socalledsound/UCBelectro2019](https://socalledsound.github.io/UCBelectro2019/resources.html)
 -   [electro-crafting rules](https://socalledsound.github.io/sfaiF2018/rules.html)
 -   [Chris Kubick](https://www.linkedin.com/in/chris-kubick-a768a0141/)
+    -   [https://github.com/socalledsound](https://github.com/socalledsound)
     -   [https://socalledsidefx.com/](https://socalledsidefx.com/)
     -   [https://github.com/socalledsound/electrodocs-2020](https://github.com/socalledsound/electrodocs-2020)
 
